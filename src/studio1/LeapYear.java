@@ -11,6 +11,6 @@ public class LeapYear {
         // A year is a leap year if it is divisible by 4 but not by 100,
         // except if it is divisible by 400
         boolean isLeapYear = (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
-        System.out.println(isLeapYear);
+        System.out.println(year + " is a leap year: " + isLeapYear);
     }
 }

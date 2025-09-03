@@ -22,7 +22,5 @@ public class HiFour {
 		//
 		System.out.println("Hi, " + s0 + ", " + s1 + ", " + s2 + ", and " + s3 + ". How are you?");
 
-		System.out.println("Greetings " + s0 + " " + s1 + " " + s2 + " " + s3);
-
 	}
 }
