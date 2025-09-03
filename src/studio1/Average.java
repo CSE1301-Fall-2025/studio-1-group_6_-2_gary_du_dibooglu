@@ -28,8 +28,6 @@ public class Average {
 
         System.out.println("The second of two integers to be averaged?");
 		int secondint = in.nextInt();
-		
-
 
 		System.out.println("Average of " + firstint + " and " + secondint + " is " + ((double)(firstint+secondint)/2) + ".");
 	}
